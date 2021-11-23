@@ -1,4 +1,6 @@
-## Robot Tortuga Versión 01
+## Robot Tortuga Versión 01 
+## I.E. ERNESTO VILLANUEVA MUÑOZ
+## CAJARURO - UTCUBAMBA - AMAZONAS
 
 ![Image](https://ieevm.github.io/robottortuga1.github.io/v1.jpg)
 ![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
