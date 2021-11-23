@@ -8,7 +8,7 @@
 ![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
 
 ## PIEZAS DEL ROBOT
-Chasis del Robot [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
+Chasis del Robot [Descargar](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
 
 Soporte de la Rueda [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/02SoporteRueda_rtv1.stl)
 
