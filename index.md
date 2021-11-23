@@ -12,7 +12,7 @@ https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl
 
 [src](https://embed.github.com/view/3d/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
 
-<script src="https://embed.github.com/view/3d/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl"></script>
+[script src="https://embed.github.com/view/3d/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl"]
 
 You can use the [editor on GitHub](https://github.com/ieevm/robottortuga1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
