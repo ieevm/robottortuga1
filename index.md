@@ -8,8 +8,9 @@
 ![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
 
 ## PIEZAS DEL ROBOT
+[Link](https://ieevm.github.io/robottortuga1.github.io/01Chasis_rtv1.stl)
 
-<script src="https://ieevm.github.io/robottortuga1.github.io/01Chasis_rtv1.stl"></script>
+
 
 You can use the [editor on GitHub](https://github.com/ieevm/robottortuga1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
