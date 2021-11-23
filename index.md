@@ -8,15 +8,15 @@
 ![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
 
 ## PIEZAS DEL ROBOT
-Chasis del Robot https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl
+Chasis del Robot [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
 
-Soporte de la Rueda https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/02SoporteRueda_rtv1.stl
+Soporte de la Rueda [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/02SoporteRueda_rtv1.stl)
 
-Rueda https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/03Rueda_rtv1.stl
+Rueda [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/03Rueda_rtv1.stl)
 
-Soporte de la Matriz de Led https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/04SoporteLed_rtv1.stl
+Soporte de la Matriz de Led [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/04SoporteLed_rtv1.stl)
 
-Soporte del Lapicero https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/05SoporteLapicero_rtv1.stl
+Soporte del Lapicero [link](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/05SoporteLapicero_rtv1.stl)
 
 You can use the [editor on GitHub](https://github.com/ieevm/robottortuga1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
