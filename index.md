@@ -22,7 +22,7 @@ Soporte del Lapicero [Ver](https://github.com/ieevm/robottortuga1.github.io/blob
 ## CODIGO EN ARDUINO
 
 ```markdown
-*/
+
 #include "LedControl.h"     // incluye libreria LedControl
 typedef int var;     // handles JavaScript var type
 
