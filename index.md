@@ -8,7 +8,8 @@
 ![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
 
 ## PIEZAS DEL ROBOT
-[Descargar](https://ieevm.github.io/robottortuga1.github.io/01Chasis_rtv1.stl)
+https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl
+[Descargar](https://embed.github.com/view/3d/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
 
 
 
