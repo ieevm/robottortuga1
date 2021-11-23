@@ -9,7 +9,8 @@
 
 ## PIEZAS DEL ROBOT
 https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl
-[Descargar](https://embed.github.com/view/3d/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
+
+[Image](https://embed.github.com/view/3d/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
 
 
 
