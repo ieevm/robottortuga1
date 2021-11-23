@@ -2,6 +2,7 @@
 
 ![Image](https://ieevm.github.io/robottortuga1.github.io/v1.jpg)
 ![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
+![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_2.png) 
 
 You can use the [editor on GitHub](https://github.com/ieevm/robottortuga1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
