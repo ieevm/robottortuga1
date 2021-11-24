@@ -503,6 +503,6 @@ Gregorio Bautista Oblitas
 - Especialista en tecnología de la informática educativa
 - Licenciado en Educación Matemática y Computación
 - Magister en Psicologia Educativa
-- Maestria Concluida en Ingenieria de Sistemas con mensión en Administración
+- Maestria Concluida en Ingenieria de Sistemas con mención en Administración de Empresas
 - Doctorando en Gestión Pública y Gobernabilidad
 ```
