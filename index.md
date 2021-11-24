@@ -498,7 +498,7 @@ Codigo para el control de la matriz led
 ```
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para mas detalle [Vídeo en Youtube]().
 
 ### Institución Educativa Ernesto Villanueva Muñoz
 
@@ -507,9 +507,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Desarrolador
 
 Gregorio Bautista Oblitas
+```markdown
 **Bold** Ingeniero de Sistemas e Informática
 **Bold** Especialista en tecnología de la informática educativa
 **Bold** Licenciado en Educación Matemática y Computación
 **Bold** Magister en Psicologia Educativa
 **Bold** Maestria Concluida en Ingenieria de Sistemas con mensión en Administración
 **Bold** Doctorando en Gestión Pública y Gobernabilidad.
+```
