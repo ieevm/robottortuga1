@@ -49,9 +49,6 @@ int delay_time=6; //         # time between steps in ms
 int L_stepper_pins[] = {12, 10, 9, 11};
 int R_stepper_pins[] = {4, 6, 7, 5};
 
-int fwd_mask[][4] =  {{1, 0, 1, 0},{0, 1, 1, 0},{0, 1, 0, 1},{1, 0, 0, 1}};
-
-int rev_mask[][4] =  {{1, 0, 0, 1}, {0, 1, 0, 1},{0, 1, 1, 0},{1, 0, 1, 0}};
 
 // Gregorio
 int pin2 = 2;
