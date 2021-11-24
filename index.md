@@ -508,10 +508,10 @@ Para mas detalle [Vídeo en Youtube]().
 
 Gregorio Bautista Oblitas
 ```markdown
-**Bold** Ingeniero de Sistemas e Informática
-**Bold** Especialista en tecnología de la informática educativa
-**Bold** Licenciado en Educación Matemática y Computación
-**Bold** Magister en Psicologia Educativa
-**Bold** Maestria Concluida en Ingenieria de Sistemas con mensión en Administración
-**Bold** Doctorando en Gestión Pública y Gobernabilidad.
+**Ingeniero de Sistemas e Informática**
+** Especialista en tecnología de la informática educativa**
+**Licenciado en Educación Matemática y Computación**
+**Magister en Psicologia Educativa**
+**Maestria Concluida en Ingenieria de Sistemas con mensión en Administración**
+**Doctorando en Gestión Pública y Gobernabilidad.**
 ```
