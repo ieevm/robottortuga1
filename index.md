@@ -490,7 +490,7 @@ byte flecha_abajo_1[8] = {   // array con primer cuadro de animacion de flecha
 
 ### Funciones
 
-Codigo para el control de la matriz led
+Codigo de las funciones del robot
 
 ```markdown
 
