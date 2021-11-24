@@ -1,25 +1,25 @@
 ## I.E. ERNESTO VILLANUEVA MUÑOZ
 ### CAJARURO - UTCUBAMBA - AMAZONAS
 ## Robot Tortuga Versión 01
-![Image](https://ieevm.github.io/robottortuga1.github.io/v1.jpg)
+![Image](https://ieevm.github.io/robottortuga1/v1.jpg)
 
 
 ## DISEÑO EN TINKERCAD
-![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_2.png) 
+![Image](https://ieevm.github.io/robottortuga1/rtv1_2.png) 
 
 ### PIEZAS DEL ROBOT
-Chasis del Robot [Ver](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/01Chasis_rtv1.stl)
+Chasis del Robot [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/01Chasis_rtv1.stl)
 
-Soporte de la Rueda [Ver](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/02SoporteRueda_rtv1.stl)
+Soporte de la Rueda [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/02SoporteRueda_rtv1.stl)
 
-Rueda [Ver](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/03Rueda_rtv1.stl)
+Rueda [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/03Rueda_rtv1.stl)
 
-Soporte de la Matriz de Led [Ver](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/04SoporteLed_rtv1.stl)
+Soporte de la Matriz de Led [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/04SoporteLed_rtv1.stl)
 
-Soporte del Lapicero [Ver](https://github.com/ieevm/robottortuga1.github.io/blob/gh-pages/05SoporteLapicero_rtv1.stl)
+Soporte del Lapicero [Ver](https://github.com/ieevm/robottortuga1/blob/gh-pages/05SoporteLapicero_rtv1.stl)
 
 ## ROBOT GRAFICANDO
-![Image](https://ieevm.github.io/robottortuga1.github.io/rtv1_1.png) 
+![Image](https://ieevm.github.io/robottortuga1/rtv1_1.png) 
 
 
 
