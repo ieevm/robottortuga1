@@ -410,34 +410,106 @@ void mostrar_apagado(){     // funcion mostrar_1
 ```
 
 
-### Markdown
+### Librerias
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Librerias a utilizar
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#include "LedControl.h" 
+#include <Servo.h>
 ```
+
+### Matriz Led
+
+Codigo para el control de la matriz led
+
+```markdown
+byte apagado[8] = {   // array con primer cuadro de animacion de flecha
+  B00000000,
+  B00000000,
+  B00000000,
+  B00000000,
+  B00000000,
+  B00000000,
+  B00000000,
+  B00000000
+};
+
+
+byte flecha_arriba_1[8] = {   // array con primer cuadro de animacion de flecha
+  B00000000,
+  B00011000,
+  B00111100,
+  B01111110,
+  B11011011,
+  B00011000,
+  B00011000,
+  B00011000
+};
+
+
+
+byte flecha_derecha_1[8] = {   // array con primer cuadro de animacion de flecha
+  B00001000,
+  B00011000,
+  B00110000,
+  B01111111,
+  B01111111,
+  B00110000,
+  B00011000,
+  B00001000
+};
+
+
+
+byte flecha_izquierda_1[8] = {   // array con primer cuadro de animacion de flecha
+  B00010000,
+  B00011000,
+  B00001100,
+  B11111110,
+  B11111110,
+  B00001100,
+  B00011000,
+  B00010000
+};
+
+
+
+byte flecha_abajo_1[8] = {   // array con primer cuadro de animacion de flecha
+  B00000000,
+  B00011000,
+  B00011000,
+  B11011011,
+  B01111110,
+  B00111100,
+  B00011000,
+  B00000000
+};
+
+```
+
+### Funciones
+
+Codigo para el control de la matriz led
+
+```markdown
+
+
+```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Institución Educativa Ernesto Villanueva Muñoz
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ieevm/robottortuga1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ [Página Web](http://ieevm.edu.pe/). 
 
-### Support or Contact
+### Desarrolador
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gregorio Bautista Oblitas
+**Bold** Ingeniero de Sistemas e Informática
+**Bold** Especialista en tecnología de la informática educativa
+**Bold** Licenciado en Educación Matemática y Computación
+**Bold** Magister en Psicologia Educativa
+**Bold** Maestria Concluida en Ingenieria de Sistemas con mensión en Administración
+**Bold** Doctorando en Gestión Pública y Gobernabilidad.
