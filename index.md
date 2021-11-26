@@ -483,24 +483,119 @@ byte flecha_abajo_1[8] = {   // array con primer cuadro de animacion de flecha
 
 ```
 
-### Funciones
+## Funciones
 
 Codigo de las funciones del robot
 
 ```markdown
+  int step(float distance){
+  int steps = distance * steps_rev / (wheel_dia * 3.1412); //24.61
+  return steps;  
+}
 
+
+void forward(float distance){
+  int steps = step(distance);
+  Serial.println(steps);
+  for(int step=0; step<steps; step++){
+    for(int mask=0; mask<4; mask++){
+      for(int pin=0; pin<4; pin++){
+        digitalWrite(L_stepper_pins[pin], rev_mask[mask][pin]);
+        digitalWrite(R_stepper_pins[pin], fwd_mask[mask][pin]);
+      }
+      delay(delay_time);
+    } 
+  }
+}
+
+
+void backward(float distance){
+  int steps = step(distance);
+  for(int step=0; step<steps; step++){
+    for(int mask=0; mask<4; mask++){
+      for(int pin=0; pin<4; pin++){
+        digitalWrite(L_stepper_pins[pin], fwd_mask[mask][pin]);
+        digitalWrite(R_stepper_pins[pin], rev_mask[mask][pin]);
+      }
+      delay(delay_time);
+    } 
+  }
+}
+
+
+void right(float degrees){
+  float rotation = degrees / 360.0;
+  float distance = wheel_base * 3.1412 * rotation;
+  int steps = step(distance);
+  for(int step=0; step<steps; step++){
+    for(int mask=0; mask<4; mask++){
+      for(int pin=0; pin<4; pin++){
+        digitalWrite(R_stepper_pins[pin], rev_mask[mask][pin]);
+        digitalWrite(L_stepper_pins[pin], rev_mask[mask][pin]);
+      }
+      delay(delay_time);
+    } 
+  }   
+}
+
+
+void left(float degrees){
+  float rotation = degrees / 360.0;
+  float distance = wheel_base * 3.1412 * rotation;
+  int steps = step(distance);
+  for(int step=0; step<steps; step++){
+    for(int mask=0; mask<4; mask++){
+      for(int pin=0; pin<4; pin++){
+        digitalWrite(R_stepper_pins[pin], fwd_mask[mask][pin]);
+        digitalWrite(L_stepper_pins[pin], fwd_mask[mask][pin]);
+      }
+      delay(delay_time);
+    } 
+  }   
+}
+
+
+void done(){ // unlock stepper to save battery
+  for(int mask=0; mask<4; mask++){
+    for(int pin=0; pin<4; pin++){
+      digitalWrite(R_stepper_pins[pin], LOW);
+      digitalWrite(L_stepper_pins[pin], LOW);
+    }
+    delay(delay_time);
+  }
+}
+
+
+void penup(){
+  delay(250);
+  Serial.println("PEN_UP()");
+  penServo.write(PEN_UP);
+  delay(250);
+}
+
+
+void pendown(){
+  delay(250);  
+  Serial.println("PEN_DOWN()");
+  penServo.write(PEN_DOWN);
+  delay(250);
+}
 
 ```
 
 
-Video demostrativo [Vídeo en Youtube]().
+## Video demostrativo
 
- [Robot Tortuga 01 Video Demostrativo](https://youtu.be/et4Xq_pkTNQ). 
+ [Robot Tortuga 01 Video Demostrativo 01](https://youtu.be/et4Xq_pkTNQ). 
+ 
+ [Robot Tortuga 01 Video Demostrativo 02](https://youtu.be/qHy4baHWx6g).
+ 
+
 
 ### Institución Educativa Ernesto Villanueva Muñoz
 
  [Página Web](http://ieevm.edu.pe/). 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/et4Xq_pkTNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Desarrolador
 
